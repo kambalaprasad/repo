@@ -1,3 +1,2 @@
 # repo
-sample
 echo "hello"
