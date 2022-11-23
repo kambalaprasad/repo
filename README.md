@@ -1,2 +1,2 @@
 # repo
-echo "hello"
+echo "hello friends"
